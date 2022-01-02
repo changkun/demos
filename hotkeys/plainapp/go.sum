@@ -1,0 +1,7 @@
+golang.design/x/hotkey v0.2.1 h1:BdvNkwwthEXYAxndOEH1lrPPEl8Hc9vo8xf+1mrWyZM=
+golang.design/x/hotkey v0.2.1/go.mod h1:qVcSIgJEoip4gptNju/Q1x0ddNjz+A698FbTvwIBOUw=
+golang.design/x/hotkey v0.3.0-alpha h1:tL3R1i/afnARqXLekfw6RpWVX0gcldtUwUblJw/XuOw=
+golang.design/x/hotkey v0.3.0-alpha/go.mod h1:M8SGcwFYHnKRa83FpTFQoZvPO5vVT+kWPztFqTQKmXA=
+golang.design/x/mainthread v0.3.0 h1:UwFus0lcPodNpMOGoQMe87jSFwbSsEY//CA7yVmu4j8=
+golang.design/x/mainthread v0.3.0/go.mod h1:vYX7cF2b3pTJMGM/hc13NmN6kblKnf4/IyvHeu259L0=
+golang.org/x/sys v0.0.0-20201022201747-fb209a7c41cd/go.mod h1:h1NjWce9XRLGQEsW7wpKNCjG9DtNlClVuFLEZdDNbEs=
